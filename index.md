@@ -1,18 +1,19 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+status: draft
 
 hero:
-  name: "Yeoman Documentation"
-  text: "Documentation for Yeoman Generators for CAP, Fiori, and Other SAP Products"
-  tagline: My great project tagline
+  name: "Yeoman Generators "
+  text: "Fast Fiori Sites"
+  tagline: Scaffold Fiori apps quickly 
   actions:
     - theme: brand
-      text: Installing Yeoman
-      link: /installing-yeoman
+      text: Quick Start
+      link: /quick-start
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Deep dive
+      link: /generators
 
 features:
   - title: Feature A
