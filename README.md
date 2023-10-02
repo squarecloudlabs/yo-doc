@@ -4,14 +4,24 @@ Documentation for Yeoman Generators for CAP, Fiori, and Other SAP Products
 ## Intention 
 The intention of this repository is to document the [Yeoman](https://yeoman.io/generators/) Generators for the SAP ecosystem
 
-###Blogs
+## [Contribution](./CONTRIBUTION.md)
+```
+$ yo
+? 'Allo [Contributer](./CONTRIBUTION.md)! What would you like to do? (Use arrow keys)
+  Run a generator
+❯ Easy Ui5 
+  ──────────────
+  Fork this Repo
+  Contribution Documentation
+  Provide some help 
+  Get me out of here! 
+(Move up and down to reveal more choices)
+```
 
-https://blogs.sap.com/2020/11/15/create-a-fiori-application-using-yeoman-generators-and-consume-odata-services-exposed-by-a-sap-gateway-demo-system/
+This repository is available for [Hacktoberfest](https://hacktoberfest.com/participation) contributions.
 
-https://blogs.sap.com/2022/07/13/how-to-manually-install-yeoman-generators-in-business-application-studio-bas/
+Please fork the repository, clone it to your working space and then open a pull request to get the merges applied.
 
-https://blogs.sap.com/2021/04/09/easy-ui5-3.0-from-community-contributions-to-community-plugins/ 
 
-https://blogs.sap.com/2014/02/25/introducing-the-yeoman-generator-for-openui5/
+If you don't know about Yeoman or the SAP Fiori Generators please start with the information in [additional](./additional.md)
 
-You-tube [Yeoman generator for OpenUI5 - teaser - YouTube](https://www.youtube.com/watch?v=B5D1aTbScnE)
